@@ -1,2 +1,4 @@
 # ignore virtual env
 env/
+
+wiz_results.json
